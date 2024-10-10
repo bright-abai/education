@@ -1,4 +1,10 @@
-### https://pastebin.com/McP9AnnK
+### [Docs](http://www.xlitx.com/datasheet/5161AS.pdf)
+
+# pastebin.com/raw/MKHwcm6W
+
+| A   | 2   | 3   | 4   | 5   | 6   | 7   | 8   |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 8   | 7   | 6   | 4   | 2   | 1   | 9   | 10  |
 
 ```
 int pins[8] = {2, 3, 4, 5, 6, 7, 8, 9};
