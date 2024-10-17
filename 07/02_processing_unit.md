@@ -16,4 +16,4 @@ Current size of transistors is 5 nm
 Intel, AMD, Apple, Qualcom - manufactures
 
 **Homework:**
-**Choose a processor that you will buy,**
+Choose a processor that you will buy,
