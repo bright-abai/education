@@ -8,6 +8,8 @@
 | 3<sub>10</sub> | 11<sub>2</sub>  |      | 9<sub>10</sub>  | 1001<sub>2</sub> |      | 15<sub>10</sub> | 1111<sub>2</sub>  |
 | 4<sub>10</sub> | 100<sub>2</sub> |      | 10<sub>10</sub> | 1010<sub>2</sub> |      | 16<sub>10</sub> | 10000<sub>2</sub> |
 | 5<sub>10</sub> | 101<sub>2</sub> |      | 11<sub>10</sub> | 1011<sub>2</sub> |      | 17<sub>10</sub> | 10001<sub>2</sub> |
+
+![[binary.jpeg]]
 # Quests
 
 ## 1. 👍 Convert decimals

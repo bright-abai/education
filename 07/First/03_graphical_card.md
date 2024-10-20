@@ -1,3 +1,4 @@
+# Theory
 GPUs - Graphical Processing Unit, used for rendering to the screen. 
 
 Rendering - applying colors in realistic/stylistic way.
@@ -9,6 +10,18 @@ Factors for increasing price of GPUs
 2. Films, Architecture design
 3. Cryptocurrency
 4. AI (ChatGPT, AI art)
+
+![[gpu.jpeg]]
+
+# Quests
+
+## 1. 👍  What was the top limit of quality for computer without the GPU?
+## 2. 🔑 ⚪
+## 3. 🏅️ ⚪
+## 4. 🏆 ⚪
+
+# Homework
+
 
 ### Homework
 Find 3 exact models of GPUs and tell about them.

@@ -1,0 +1,24 @@
+# Theory
+
+>_Motherboard_ means specifically a PCB with expansion capabilities. As the name suggests, this board is often referred to as the _mother_ of all components attached to it, which often include peripherals, interface cards, and [daughterboards](https://en.wikipedia.org/wiki/Expansion_card#Daughterboard "Expansion card"): [sound cards](https://en.wikipedia.org/wiki/Sound_card "Sound card"), [video cards](https://en.wikipedia.org/wiki/Video_card "Video card"), [network cards](https://en.wikipedia.org/wiki/Network_card "Network card"), [host bus adapters](https://en.wikipedia.org/wiki/Host_bus_adapter "Host bus adapter"), [TV tuner cards](https://en.wikipedia.org/wiki/TV_tuner_card "TV tuner card"), [IEEE 1394](https://en.wikipedia.org/wiki/IEEE_1394 "IEEE 1394") cards, and a variety of other custom components.
+>
+>-- <cite> [Wikipedia](https://en.wikipedia.org/wiki/Motherboard) </cite>
+
+`Motherboard` is a component that *connects* all computer parts together, and provides connection ports for the peripherals.
+
+![[motherboard.jpg]]
+The motherboard also has a `power supply unit`, that converts AC into DC, in other words, provides electricity to all other computer parts.
+
+![[power_supply.jpg]]
+# Quests
+
+## 1. 👍 Q
+ List at least 7 hardware components that are connected to the motherboard
+## 2. 🔑 Q
+Should the motherboard be cleaned? What is the correct way to clean it?
+## 3. 🏅️ ⚪
+## 4. 🏆 ⚪
+
+# Homework
+
+Prepare for the Final Exam
