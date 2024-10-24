@@ -1,4 +1,4 @@
-# Definitions
+# Theory
 
 > Computer science is the study of computation, information, and automation. 
 >
@@ -22,5 +22,14 @@ There are three main parts by which computer is divided:
 >
 > -- <cite> [Wikipedia](https://en.wikipedia.org/wiki/Data) </cite>
 
-# Определения
+![[hardware.jpg]]
 
+# Quests
+
+## 1. 👍  Research about first computer
+## 2. 🔑 Tell me what a computer bug is and its history
+## 3. 🏅️ What is Turing's machine?
+## 4. 🏆 What are the differences between the computer and a human?
+
+# Homework
+Remember the definitions
