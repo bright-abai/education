@@ -13,16 +13,6 @@
 | 10      | Мүрөк <sup>10</sup>  | 🔑⚡👍🔔⚡    |      | 20  | Адил <sup>16</sup>     | 🎮 ⌛🔔         |
 | 0       | Абай                 | 🐒👺🏴      |      |     |                        |                |
 
-| Negative | Description    | Positive | Description   |
-| -------- | -------------- | -------- | ------------- |
-| 👻 0     | Absent         | ⚪ 0      | Nothing       |
-| 🔔 -0.5  | Late           | ⚡ 0.5    | Active        |
-| 🎮 -1    | Disappointment | 👍 1     | Task complete |
-| 🔊 -1.5  | Noise          | 🧐1.5    | Good question |
-| 👺 -2    | Punish         | 🔑 2     | Clever        |
-| 🐒 -3    | Cheater        | 🏅️ 3    | Reward        |
-| 🏴 -5    | Mark 2         | 🏆 5     | Mark 5        |
-
 Адил 2 / 3
 Рустам 1 / 3
 - [ ] Мурок 2 / 3
