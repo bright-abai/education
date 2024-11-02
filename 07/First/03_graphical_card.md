@@ -11,7 +11,7 @@ Factors for increasing price of GPUs
 3. Cryptocurrency
 4. AI (ChatGPT, AI art)
 
-![[gpu.jpeg]]
+![gpu](gpu.jpeg)
 
 # Quests
 

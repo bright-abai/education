@@ -10,7 +10,7 @@ Current size of transistors is 5 nm
 
 Intel, AMD, Apple, Qualcom - manufactures
 
-![[cpu.jpg]]
+![cpu](cpu.jpg)
 # Quests
 
 ## 1. 👍  Tell an exact model of CPU on your computer

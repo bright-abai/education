@@ -22,7 +22,7 @@ There are three main parts by which computer is divided:
 >
 > -- <cite> [Wikipedia](https://en.wikipedia.org/wiki/Data) </cite>
 
-![[hardware.jpg]]
+![hardware](hardware.jpg)
 
 # Quests
 

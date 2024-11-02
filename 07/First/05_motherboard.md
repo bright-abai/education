@@ -6,10 +6,10 @@
 
 `Motherboard` is a component that *connects* all computer parts together, and provides connection ports for the peripherals.
 
-![[motherboard.jpg]]
+![motherboard](motherboard.jpg)
 The motherboard also has a `power supply unit`, that converts AC into DC, in other words, provides electricity to all other computer parts.
 
-![[power_supply.jpg]]
+![power_supply](power_supply.jpg)
 # Quests
 
 ## 1. 👍 Q

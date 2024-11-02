@@ -16,10 +16,10 @@ The memory is measured in bytes, where 1 byte is 8 bits
 1000 gigabytes = 1 terabyte tB   1024 gibibytes = 1 tebibyte TB
 ```
 
-![[ram_2gb.jpg]]
+![ram_2gb](ram_2gb.jpg)
 
-![[hdd.jpg]]
-![[ssd.jpg]]
+![hdd](hdd.jpg)
+![ssd](ssd.jpg)
 
 # Quests
 
