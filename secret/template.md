@@ -1,10 +1,11 @@
 # Theory
+---
+# Quests:
+# <span style="font-weight: normal">👍</span>
 
-# Quests
+# <span style="font-weight: normal">🏅️</span>
 
-## 1. 👍  ⚪
-## 2. 🔑 ⚪
-## 3. 🏅️ ⚪
-## 4. 🏆 ⚪
+# Homework:
+# <span style="font-weight: normal">👍</span>
 
-# Homework
+

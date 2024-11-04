@@ -15,5 +15,3 @@
 | 👺🏅️ | 2   |
 | 🐒🔑  | 2.5 |
 | 🦇🌟  | 5   |
-
-TODO: AfterEffects video gradually showing emojis one by one
