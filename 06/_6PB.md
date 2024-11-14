@@ -11,5 +11,5 @@
 | 8   | Абдулла <sup>04</sup> | 🔔       |      | 17  | Эльхан <sup>03</sup>  | 👍       |
 | 9   | Эрбол <sup>10</sup>   |          |      | 18  | Эмирхан <sup>13</sup> | 🔔       |
 
-![[secret/EMOJI]]
+![[education/EMOJI]]
 

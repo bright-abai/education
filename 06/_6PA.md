@@ -13,4 +13,4 @@
 | 10  | Мүрөк <sup>10</sup>  | 👍⚡👍    |      | 20  | Адил <sup>16</sup>     |  👍      |
 |     |                      |          |      |     |                        |          |
 
-![EMOJI](secret/EMOJI.md)
+![EMOJI](education/EMOJI.md)
