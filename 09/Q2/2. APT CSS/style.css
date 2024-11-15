@@ -1,25 +1,6 @@
-p {
-    color: transparent;  
-    text-shadow: 0 0 0 white;
-    font-size: 100px;
-    margin: auto;
-    text-align: center;
-}
-
 body {
     background-color: #f73468;
 }
 
-.container {
-    height: 900px;
-    position: relative;
-    /* border: 3px solid green; */
-}
-  
-.vertical-center {
-    margin: 0;
-    position: absolute;
-    top: 50%;
-    -ms-transform: translateY(-50%);
-    transform: translateY(-50%);
-}
+/* 1 2 3 4 5 6 7 8 9 A B C D E F */
+/* 10 11 12 13 14 15 16 17 18 19 1A 1B 1C 1D 1E 1F  */
