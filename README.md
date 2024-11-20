@@ -2,19 +2,19 @@
 
 [[#Grade 1..4]] [[#Grade 5]] [[#Grade 6]] [[#Grade 7]] [[#Grade 8]] [[#Grade 9]] [[#Grade 10]] [[#Grade 11]] 
 
-| #   | Q1                     | Q2                 | Q3                 | Q4              |
-| --- | ---------------------- | ------------------ | ------------------ | --------------- |
-| 1   | paint 3d               | web user           | rabbit             | review          |
-| 2   | linear algorithms      | linear algorithms  | emails             | edupage         |
-| 3   | scratch                | scratch            | graphics, emoji    | graphics, emoji |
-| 4   | sorting                | searching          | 3d modeling        | review          |
-| 5   | python                 | python             | python             | python          |
-| 6   | number systems         | os                 | files, ai, editing | data, excel     |
-| 7   | internal hardware      | peripherals, color | sys admin          | python projs    |
-| 8   | java<br>               | java               | java               | java            |
-| 9   | html                   | css                | js                 | js              |
-| 10  | web frameworks         | project management | backend, sql       | gamedev         |
-| 11  | languages and licenses | algorithms         | algorithms         | algorithms      |
+| #   | Q1                     | Q2                     | Q3              | Q4              |
+| --- | ---------------------- | ---------------------- | --------------- | --------------- |
+| 1   | paint 3d               | web user               | rabbit          | review          |
+| 2   | linear algorithms      | basic files            | emails          | edupage         |
+| 3   | scratch                | scratch                | graphics, emoji | graphics, emoji |
+| 4   | sorting                | searching              | 3d modeling     | review          |
+| 5   | python                 | python                 | python          | python          |
+| 6   | number systems         | os, files, data, excel | python, ai      | python          |
+| 7   | internal hardware      | peripherals, color     | sys admin       | sys admin       |
+| 8   | java<br>               | java                   | java            | java            |
+| 9   | html                   | css                    | js              | js              |
+| 10  | web frameworks         | project management     | backend, sql    | gamedev         |
+| 11  | languages and licenses | algorithms             | algorithms      | algorithms      |
 
 ---
 # Grade 1..4
