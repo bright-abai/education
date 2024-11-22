@@ -1,21 +1,21 @@
 # CompSci and Robotics week
 
-| #        | Theme  | Info | Grade | HW  |
-| -------- | ------ | ---- | ----- | --- |
-| **2.1**  |        | 👻   | 👻    | 👻  |
-| **2.2**  | Typing | 👻   | 👻    | 👻  |
-| **3.1**  |        | 👻   | 👻    | 👻  |
-| **3.2**  | Typing | 👻   | 👻    | 👻  |
-| **6.1**  |        | 👻   | 👻    |     |
-| **6.2**  |        | 👻   | 👻    |     |
-| **7.1**  |        | 👻   | 👻    |     |
-| **7.2**  |        | 👻   | 👻    |     |
-| **8.1**  |        | 👻   | 👻    |     |
-| **8.2**  |        | 👻   | 👻    |     |
-| **9.1**  |        | 👻   | 👻    |     |
-| **9.2**  |        | 👻   | 👻    |     |
-| **10.1** |        | 👻   | 👻    |     |
-| **10.2** |        | 👻   | 👻    |     |
+| #        | Theme                | Info                                                 | Grade | HW  |
+| -------- | -------------------- | ---------------------------------------------------- | ----- | --- |
+| **2.1**  | File system          | Create 5 folders, hide secret message in one of them | 👻    | 👻  |
+| **2.2**  | Typing in Enlgish    | 👻                                                   | 👻    | 👻  |
+| **3.1**  | Hotkeys              | 👻                                                   | 👻    | 👻  |
+| **3.2**  | Typing in Enlgish    | 👻                                                   | 👻    | 👻  |
+| **6.1**  | File formats         | 👻                                                   | 👻    |     |
+| **6.2**  | Potentiometer        | 👻                                                   | 👻    |     |
+| **7.1**  | Basic color theory   | 👻                                                   | 👻    |     |
+| **7.2**  | Potentiometer        | 👻                                                   | 👻    |     |
+| **8.1**  | Java practice on bee | 👻                                                   | 👻    |     |
+| **8.2**  | Potentiometer        | 👻                                                   | 👻    |     |
+| **9.1**  |                      | 👻                                                   | 👻    |     |
+| **9.2**  | Potentiometer        | 👻                                                   | 👻    |     |
+| **10.1** |                      | 👻                                                   | 👻    |     |
+| **10.2** | Potentiometer        | 👻                                                   | 👻    |     |
 [^1]: The first number is the grade, the second is lesson in the week
 [^2]: Theory [location](https://www.afterhoursprogramming.com/tutorial/html/introduction-html/) for 9 - 10 
 [^3]: Theory [location](https://hyperskill.org/courses/8-introduction-to-java) for 8
