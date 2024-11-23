@@ -2,5 +2,5 @@
 2. Do translation of English course materials into Russian?
 3. Discord invite
 ```
-https://discord.gg/ADj3G44E
+https://discord.gg/4fvMDjFwNS
 ```
