@@ -1,0 +1,23 @@
+div.top {
+    background-color: black;
+    color: black;
+    height: 300px;
+    width: 10000px;
+    /* display: flex; */
+}
+
+div.middle {
+    background-color: red;
+    color: red;
+    height: 300px;
+    width: 10000px;
+    /* display: flex; */
+}
+
+div.bottom {
+    background-color: green;
+    color: green;
+    height: 300px;
+    width: 10000px;
+    /* display: flex; */
+}
