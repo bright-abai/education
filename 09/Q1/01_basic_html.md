@@ -1,5 +1,11 @@
-Make the following site:
-
+```html
+<p>
+    <b>I am bold</b>
+    <i>I am in italics </i>
+    <sub>Last</sub>, but not <sup>least</sup>
+</p>
+```
+**I am bold** _I am in italics_ Last, but not least
 [Image](site.png)
 
 
