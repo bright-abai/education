@@ -1,12 +1,7 @@
-th {
-    color: white
-}
-
 body {
-    background: lightblue;
+    background: black;
 }
 
-td {
-    color: #000000;
-    background: yellow;
+p {
+    color:red;
 }
