@@ -5,8 +5,8 @@
 | #   | Q1                     | Q2                     | Q3              | Q4              |
 | --- | ---------------------- | ---------------------- | --------------- | --------------- |
 | 1   | paint 3d               | web user               | rabbit          | review          |
-| 2   | linear algorithms      | basic files            | emails          | edupage         |
-| 3   | scratch                | scratch                | graphics, emoji | graphics, emoji |
+| 2   | scratch                | scratch                | graphics, emoji | graphics, emoji |
+| 3   | linear algorithms      | basic files            | emails          | edupage         |
 | 4   | sorting                | searching              | 3d modeling     | review          |
 | 5   | python                 | python                 | python          | python          |
 | 6   | number systems         | os, files, data, excel | python, ai      | python          |
