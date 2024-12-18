@@ -5,7 +5,7 @@
 https://discord.gg/4fvMDjFwNS
 ```
 4. Make a good program
-5. Add emails for everyone, teach them
+5. Add emails for everyone, teach them, print a tutorial?
 
 1. Crypt of the necrodancer?
 2. Untitled Goose Game?
@@ -16,6 +16,7 @@ https://discord.gg/4fvMDjFwNS
 	- Celeste 11+
 	- Portal 11+
 	- Human Resource Machine 9+
+	- From Emir 7P
 6. Install games for kids (primary school)
 	- Plants vs Zombies
 	- 
