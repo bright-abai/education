@@ -1,3 +1,5 @@
+13.01 прибытие.
+
 2. Do translation of English course materials into Russian?
 3. Discord invite
 ```
