@@ -1,12 +1,12 @@
 
-| #       | Theme                              | HW                 |
-| ------- | ---------------------------------- | ------------------ |
-| **2.1** | draw emoji yourself                |                    |
-| **2.2** |                                    |                    |
-| **3.1** |                                    |                    |
-| **3.2** |                                    |                    |
-| **6**   | python introduction                | beecrowd.com #1000 |
-| **7**   | python introduction                | beecrowd.com #1000 |
-| **8**   | java QA session and practice       | beecrowd.com #1014 |
-| **9**   | javascript and nodeJS introduction | beecrowd.com #1000 |
-| **10**  | javascript and nodeJS introduction | beecrowd.com #1000 |
+| #       | Theme                           | HW  |
+| ------- | ------------------------------- | --- |
+| **2.1** | English typing                  |     |
+| **2.2** | English typing                  |     |
+| **3.1** | English typing                  |     |
+| **3.2** | English typing                  |     |
+| **6**   | robotics recap and light sensor |     |
+| **7**   | robotics recap and light sensor |     |
+| **8**   | robotics recap and light sensor |     |
+| **9**   | robotics recap and light sensor |     |
+| **10**  | robotics recap and light sensor |     |

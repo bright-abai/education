@@ -10,7 +10,7 @@
 | 4   | sorting                | searching              | 3d modeling     | review          |
 | 5   | python                 | python                 | python          | python          |
 | 6   | number systems         | os, files, data, excel | python, ai      | python          |
-| 7   | internal hardware      | peripherals, color     | sys admin       | sys admin       |
+| 7   | internal hardware1     | peripherals, color     | sys admin       | sys admin       |
 | 8   | java<br>               | java                   | java            | java            |
 | 9   | html                   | css                    | js              | js              |
 | 10  | web frameworks         | project management     | backend, sql    | gamedev         |

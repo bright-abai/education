@@ -1,26 +1,26 @@
-
+	
 # https://javascript.info/intro
 # https://beecrowd.com
 # 1000
 # 1001
 
-Milana Ahn ahn_milana@bright.kg
-Sajida Akunova akunova_sajida@bright.kg
-Karima Alymkulova alymkulova_karima@bright.kg
-Deniz Avazbekov avazbekov_deniz@bright.kg
-Adiya Bekmuratova bekmuratova_adiya@bright.kg
-Aidar Damirbekov damirbekov_aidar@bright.kg
-Kemal Genc genc_kemal@bright.kg
-Aisha Ibraimova ibraimova_aisha@bright.kg
-Zeynep Kahraman kahraman_zeynep@bright.kg
-Daniel Kamildinov kamildinov_daniel@bright.kg
-Eleonora Kuruchbekova kuruchbekova_eleonora@bright.kg
-Aizirek Maksatbekova maksatbekova_aizirek@bright.kg
-Atai Myrzabraimov myrzabraimov_atai@bright.kg
-Ayelina Omurgazieva omurgazieva_ayelina@bright.kg
-Darina Toktogulova toktogulova_darina@bright.kg
-Kutman Turabaev turabaev_kutman@bright.kg
-Sheraaly Turdumambekov turdumambekov_sheraaly@bright.kg
+Milana ahn_milana@bright.kg
+Sajida akunova_sajida@bright.kg
+Karima alymkulova_karima@bright.kg
+Deniz  avazbekov_deniz@bright.kg
+Adiya bekmuratova_adiya@bright.kg
+Aidar  damirbekov_aidar@bright.kg
+Kemal genc_kemal@bright.kg
+Aisha ibraimova_aisha@bright.kg
+Zeynep kahraman_zeynep@bright.kg
+Daniel kamildinov_daniel@bright.kg
+Eleonora kuruchbekova_eleonora@bright.kg
+Aizirek maksatbekova_aizirek@bright.kg
+Atai myrzabraimov_atai@bright.kg
+Ayelina omurgazieva_ayelina@bright.kg
+Darina toktogulova_darina@bright.kg
+Kutman turabaev_kutman@bright.kg
+Sheraaly turdumambekov_sheraaly@bright.kg
 
 ```javascript
 console.log("Hello World!")
@@ -32,7 +32,9 @@ let lines = input.split('\n');
 
 let A = parseInt(lines[0]);
 let B = parseInt(lines[1]);
-console.log("X = " + (A + B));
+
+let X = A + B;
+console.log("X = " + X);
 ```
 
 ```javascript

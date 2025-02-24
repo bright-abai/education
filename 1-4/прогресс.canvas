@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"e8459932f368925b","type":"text","text":"# 3 класс","x":-563,"y":-80,"width":1963,"height":400},
+		{"id":"f3dce1c6969a42a4","type":"text","text":"[почта](почта.md)","x":-520,"y":57,"width":250,"height":60,"color":"4"},
+		{"id":"7de859207a3b1523","type":"text","text":"[печать ENG](1-4/Q3/печать%20ENG.md)","x":-200,"y":57,"width":250,"height":114},
+		{"id":"2bff1370204af9b4","type":"text","text":"Сейчас","x":-200,"y":200,"width":250,"height":56,"color":"1"},
+		{"id":"9a2457eefa6ac4e4","type":"text","text":"# 2 класс","x":-572,"y":-520,"width":1972,"height":400},
+		{"id":"2c87b86ed5de3239","type":"text","text":"[печать ENG](1-4/Q3/печать%20ENG.md)","x":-200,"y":-400,"width":250,"height":114},
+		{"id":"52d962754692a61e","type":"text","text":"Сейчас","x":-200,"y":-260,"width":250,"height":60,"color":"1"},
+		{"id":"f906d8fdc2304938","type":"text","text":"[емодзи](емодзи.md)","x":-520,"y":-400,"width":250,"height":60,"color":"4"}
+	],
+	"edges":[
+		{"id":"41eb85fc5c56b92c","fromNode":"f3dce1c6969a42a4","fromSide":"bottom","toNode":"e8459932f368925b","toSide":"left"}
+	]
+}
