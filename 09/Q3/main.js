@@ -1,39 +1,20 @@
-let age = 18;
-age += 100; // 118
-age /= 2; // 59
-age *= 3; // 177
+// npm install prompt-sync
+const prompt = require('prompt-sync')({sigint: true});
 
-if (age > 100) {
-    console.log("Go")
-}
-else {
-    console.log("Stop")
-}
+let n = Math.floor(Math.random() * 100) + 1
 
-let bge = 100;
-bge /= 5; // 20
-bge += age; //197 20 + 177
-
-if (age < bge) {
-    if (bge > age) {
-        console.log("1")
+// Math.random() -> 0..1
+// Math.random() * 100 -> 0 .. 100 1
+while (true) {
+    let guess = parseInt(prompt("Угадай число от 1 до 100"))
+    if (guess > n) {
+        console.log("Попробуй поменьше")
     }
-    if (age > bge) {
-        console.log("2")
+    else if (guess < n) {
+        console.log("Попробуй побольше")
     }
-}
-
-
-cge = 20;
-cge = cge * cge * cge; // 8000
-
-
-if (age < bge && age < cge) {
-    console.log("Первый")
-}
-else if (bge < age && bge < cge) {
-    console.log("Второй")
-}
-else {
-    console.log("Третий")
+    else {
+        console.log("Они равны")
+        break
+    }
 }

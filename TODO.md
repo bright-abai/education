@@ -1,4 +1,9 @@
+Make an EduPage on Rust
+
 Negotiate about public IP for each computer
+
+Print Python theory
+
 
 1. Discord invite
 ```
