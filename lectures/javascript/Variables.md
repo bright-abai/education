@@ -21,3 +21,17 @@ let pi = 3.14159
 console.log(pi.toFixed(2))
 ```
 
+```javascript
+let input = require('fs').readFileSync('/dev/stdin', 'utf8')
+let lines = input.split('\n')
+
+let seconds = parseInt(lines[0])
+let minutes = Math.floor(seconds / 60)
+let hours = Math.floor(minutes / 60)
+
+console.log(Math.floor(hours) + ":" + Math.floor(minutes) + ":" + Math.floor(seconds))
+```
+
+
+
+```
