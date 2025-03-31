@@ -1,12 +1,12 @@
 
 | #       | Theme                           | HW  |
 | ------- | ------------------------------- | --- |
-| **2.1** | English typing                  |     |
-| **2.2** | English typing                  |     |
-| **3.1** | English typing                  |     |
-| **3.2** | English typing                  |     |
-| **6**   | robotics recap and light sensor |     |
-| **7**   | robotics recap and light sensor |     |
-| **8**   | robotics recap and light sensor |     |
-| **9**   | robotics recap and light sensor |     |
-| **10**  | robotics recap and light sensor |     |
+| **2.1** | Нарисовать план дома для игры   |     |
+| **2.2** | Майнкрафт: постройка дома       |     |
+| **3.1** | Печать письма с заменой         |     |
+| **3.2** | Майнкрафт: все строят общий дом |     |
+| **6**   | Beecrowd #1066 #1071            |     |
+| **7**   | Beecrowd #1066 #1071            |     |
+| **8**   | Beecrowd #1066 #1071            |     |
+| **9**   | Beecrowd #1066 #1071            |     |
+| **10**  | Beecrowd #1066 #1071            |     |
