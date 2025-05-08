@@ -5,7 +5,7 @@ hours = seconds // 3600
 minutes = seconds % 3600 // 60
 seconds = seconds % 60
 
-print("%d:%d:%d" % (hours, minutes, seconds))
+print(f"{hours}:{minutes}:{seconds}")
 ```
 
 ```java
@@ -19,17 +19,4 @@ public class Main {
 		int hours = 
 	}
 }
-```
-```python
-
-3661s -> 1h 1m 1s 
-3661 - 1 = 3660
-
-seconds = int(input())
-
-hours = seconds // 3600
-seconds = seconds % 3600
-minutez
-
-print("%d:%d%d" % (hours, minutes, seconds))
 ```
