@@ -1,0 +1,1 @@
+https://resources.beecrowd.com/repository/UOJ_1066_en.html

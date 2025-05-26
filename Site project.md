@@ -1,1 +1,0 @@
-https://github.com/mdn/beginner-html-site-scripted
