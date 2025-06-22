@@ -7,4 +7,11 @@ RenPy - visual novels
 
 Toca builders, Scratch Junior
 
-Minecraft, Overcooked, Baba is You
+### games
+
+Minecraft, Overcooked, Baba is You, Celeste
+##### To install:
+
+Slay the spire, View Finder, Chants of Senaar
+
+

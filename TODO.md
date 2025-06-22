@@ -1,3 +1,4 @@
+Make a Game Launcher on Rust
 Make an EduPage on Rust
 
 Negotiate about public IP for each computer
